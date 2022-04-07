@@ -7,4 +7,4 @@
 </samp>
 
 ### 42Cursus
-![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/droge?privacyName=true)
+[![droge's 42 stats](https://badge42.vercel.app/api/v2/cl1p23amy001109i6oymavshb/stats?cursusId=21&coalitionId=11)](https://github.com/JaeSeoKim/badge42)
